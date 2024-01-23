@@ -8,19 +8,23 @@ h1,#quote,#author{
 
 }
 ul{
+    padding-left: -5vh;
     list-style: none;
     margin: auto;
+    
 
 }
 ul li{
     display: inline;
-    margin: 6vh;
+    
+    
     
 }
 ul li a{
     text-decoration: none;
     font-size: large;
     color: #e0e1dd ;
+    margin: 25px;
 
 
 }
@@ -34,7 +38,7 @@ ul li a{
     color: white;
     font-family: 'Times New Roman', Times, serif;
     background-color: #003566 ;
-    width:20%;
+    width:30%;
     height:105%;
     font-size: 17px;
     border-radius: 5px;
